@@ -1,0 +1,23 @@
+# Core ML/Deep Learning
+tensorflow>=2.10.0
+
+# Computer Vision  
+opencv-python>=4.5.0
+
+# Data Processing & Scientific Computing
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Optional but recommended
+pillow>=9.0.0
+scipy>=1.7.0
+pandas>=1.4.0
+
+# Additional dependencies
+setuptools>=65.0.0
+wheel>=0.37.0
+
+streamlit>=1.18.0
