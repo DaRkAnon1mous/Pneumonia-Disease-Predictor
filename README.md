@@ -31,7 +31,7 @@ The dataset consists of chest X-ray images divided into two classes: **NORMAL** 
 - `val/`: 16 images for validation.
 - `test/`: 624 images for testing.
 
-Source: [Kaggle Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) (or similar; adjust if different).
+Source: [Kaggle Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 Images are loaded in grayscale mode using OpenCV, as X-rays are monochromatic, reducing computational complexity.
 
@@ -100,7 +100,12 @@ For full details, refer to the [Jupyter Notebook](CNN+Transfer_VGG16.ipynb).
 - **Test Accuracy**: 89.10%.
 - **Loss**: Converges to ~0.10 on training, ~0.20 on validation.
 
-The model performs well but may overfit slightly; further tuning (e.g., dropout, more epochs) could improve it. Visualizations of sample images and model summary are in the notebook.
+The model performs well but may overfit slightly; Visualizations of sample images and model summary are in the notebook.
+
+<img width="1851" height="1033" alt="image" src="https://github.com/user-attachments/assets/b38627ff-bf55-4281-826b-b9ddff96fbf5" />
+<img width="660" height="917" alt="image" src="https://github.com/user-attachments/assets/4a402517-6846-4252-878c-0cd3fbbe0ea0" />
+
+
 
 ## Contributing
 Contributions are welcome! Fork the repo, create a branch, and submit a pull request. For major changes, open an issue first.
