@@ -102,6 +102,10 @@ For full details, refer to the [Jupyter Notebook](CNN+Transfer_VGG16.ipynb).
 
 The model performs well but may overfit slightly; Visualizations of sample images and model summary are in the notebook.
 
+### Streamlit deployed Project link :
+
+https://pneumonia-predictor.streamlit.app/
+
 <img width="1851" height="1033" alt="image" src="https://github.com/user-attachments/assets/b38627ff-bf55-4281-826b-b9ddff96fbf5" />
 <img width="660" height="917" alt="image" src="https://github.com/user-attachments/assets/4a402517-6846-4252-878c-0cd3fbbe0ea0" />
 
